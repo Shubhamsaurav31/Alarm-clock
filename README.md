@@ -4,7 +4,7 @@ A simple and interactive Alarm Clock web application built using *HTML, **Vanill
 
 ## Live Demo
 You can access the live version of the Alarm Clock here:  
-[*Alarm Clock*](https://somya-pradhan.github.io/Project-ALarm-Clock/)
+[*Alarm Clock*](https://shubhamsaurav31.github.io/Alarm-clock/)
 
 ## Features
 - *Real-Time Clock*: Displays current time in a 12-hour format.
